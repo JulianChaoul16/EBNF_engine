@@ -1,11 +1,12 @@
 # CMSC304Tokenizer
 
-Class Assignment meant to help understand Context Free Grammers and Parsing
+tokenizer and recursive descent recognizer that perform lexical and syntactic analysis on input
 
 # Files 
-Cargo: File containing metadata needed for folder configuration
-
-Tokenizer: 
+**Cargo**: File containing metadata needed for folder configuration
+**Tokenizer**: Converts raw source input into lexeme token pairs.
+**Recognizor**: Parses token streams using recursive descent predictive parsing.
+**Common**: tokens 
 
 
 
