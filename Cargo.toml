@@ -1,0 +1,19 @@
+[package]
+name = "assignment_8_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Julian Chaoul <chaouljc@vcu.edu>"]
+description = "Rust parser assignment with tokenizer, common utilities, and recognizer"
+
+
+[dependencies]
+# No external dependencies needed for this project
+
+[[bin]]
+name = "tokenizer"
+path = "tokenizer.rs"
+
+[[bin]]
+name = "recognizer"
+path = "recognizer.rs"
+
