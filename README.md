@@ -4,9 +4,19 @@ tokenizer and recursive descent recognizer that perform lexical and syntactic an
 
 # Files 
 **Cargo**: File containing metadata needed for folder configuration
+
+
+
 **Tokenizer**: Converts raw source input into lexeme token pairs.
+
+
+
 **Recognizor**: Parses token streams using recursive descent predictive parsing.
+
+
+
 **Common**: tokens 
+
 
 
 
