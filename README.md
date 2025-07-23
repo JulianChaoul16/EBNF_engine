@@ -1,9 +1,9 @@
 # CMSC304Tokenizer
 
-tokenizer and recursive descent recognizer that perform lexical and syntactic analysis on input
+Tokenizer and recursive descent recognizer that perform lexical and syntactic analysis on input. Good start for anyone getting into Grammers and Interpretters. 
 
 # Files 
-**Cargo**: File containing metadata needed for folder configuration
+**Cargo**: Metadata for personal folder configuration, not needed for compilation. 
 
 
 
